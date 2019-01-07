@@ -2,4 +2,11 @@ Document List
 -------------
 -timetable
 -materials
--subconractors
+-subcontractors
+-locations
+-drawings
+People List
+-----------
+-senior level
+-junior
+-temporary
