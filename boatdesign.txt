@@ -10,3 +10,7 @@ People List
 -senior level
 -junior
 -temporary
+Working Procedures List
+-----------------------
+-safety procedures
+-IT protocols
